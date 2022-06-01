@@ -1,0 +1,29 @@
+{
+    "HOME": {
+      "GREENBUTTON":"Werken aan de order",
+      "GREEN_ACT":"(Waardetoevoegende of noodzakelijke activiteit)",
+      "YELLOWBUTTON":"Geplande stilstand",
+      "YELLOW_ACT":"(Je kunt niet verder met dit project)",
+      "REDBUTTON":"Ongeplande stilstand",
+      "RED_ACT":"(Je kunt verder met dit project)",
+      "BLUEBUTTON":"Melding hulpvraag",
+      "BLUE_ACT":"(Je kunt verder met dit project)",
+      "INSTRUCTDOCUMENT":"Instructies & Documenten",
+      "READYBUTTON":"Gereed",
+      "CLOSEBUTTON":"Blisko",
+      "CHOOSEUSER":"Kies een gebruiker om aan te melden:",
+      "YELLOWQUES":"Geplande stilstand. Wat is de reden?",
+      "REDQUES":"Ongeplande stilstand. Wat is de reden?",
+      "BLUEQUES":"Wat is de melding?",
+      "BACKBUTTON":"Terug",
+      "USERSIGNOUTTOPIC":"Bevestiging",
+      "USERSIGNOUT":"Weet u zeker dat u zich wilt afmelden?",
+      "ORDERTOPIC":"Aan welke order ga je werken?",
+      "SELECTBUTTON":"Selecteren",
+      "CANCELBUTTON":"Annuleren",
+      "CONFIRMBUTTON":"Bevestigen",
+      "RECENTNOTES":"Recente meldingen:",
+      "SENDNOTIFICATION":"Wil je een bericht sturen voor een directe hulpvraag?",
+      "REQUESTHELP":"Wil je een bericht sturen voor een directe hulpvraag?"
+    }
+  }

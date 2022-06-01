@@ -1,5 +1,29 @@
 {
     "HOME": {
-      "GREENBUTTON":"Working on the order"
-    }
+    "GREENBUTTON":"Working on the order",
+    "GREEN_ACT":"(Value adding or necessary activity)",
+    "YELLOWBUTTON":"Planned downtime",
+    "YELLOW_ACT":"(You can not continue with this order)",
+    "REDBUTTON":"Ongeplande stilstand",
+    "RED_ACT":"(You can not continue with this order)",
+    "BLUEBUTTON":"Melding hulpvraag",
+    "BLUE_ACT":"(You can not continue with this order)",
+    "INSTRUCTDOCUMENT":"Instructions & Documents",
+    "READYBUTTON":"Ready",
+    "CLOSEBUTTON":"Close",
+    "CHOOSEUSER":"Choose a user to login:",
+    "YELLOWQUES":"Planned downtime. What is the reason?",
+    "REDQUES":"Unplanned downtime. What is the reason?",
+    "BLUEQUES":"What is the message?",
+    "BACKBUTTON":"Back",
+    "USERSIGNOUTTOPIC":"Confirmation",
+    "USERSIGNOUT":"Are you sure you want to sign out?",
+    "ORDERTOPIC":"Which order are you going to work on?",
+    "SELECTBUTTON":"Selecting",
+    "CANCELBUTTON":"Cancel",
+    "CONFIRMBUTTON":"Confirm",
+    "RECENTNOTES":"Recent notifications:",
+    "SENDNOTIFICATION":"Who do you want to send the notification to?",
+    "REQUESTHELP":"Would you like to send a message for a direct request for help?"
   }
+}
