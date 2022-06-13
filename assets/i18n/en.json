@@ -4,7 +4,7 @@
     "GREEN_ACT":"(Value adding or necessary activity)",
     "YELLOWBUTTON":"Planned downtime",
     "YELLOW_ACT":"(You can not continue with this order)",
-    "REDBUTTON":"Ongeplande stilstand",
+    "REDBUTTON":"Unplanned downtime",
     "RED_ACT":"(You can not continue with this order)",
     "BLUEBUTTON":"Melding hulpvraag",
     "BLUE_ACT":"(You can not continue with this order)",
